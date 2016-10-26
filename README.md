@@ -1,2 +1,4 @@
 # hello-github
-trying out githubCopyright (c) 2016 Copyright Holder All Rights Reserved.
+### Lolo ###
+ 		 trying out github
+     Copyright (c) 2016 Copyright Holder All Rights Reserved.
