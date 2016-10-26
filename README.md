@@ -1,4 +1,4 @@
 # hello-github
-### Lolo ###
- 		 trying out github
-     Copyright (c) 2016 Copyright Holder All Rights Reserved.
+### Madame Lolo ###
+trying out github
+Copyright (c) 2016 Copyright Holder All Rights Reserved.
